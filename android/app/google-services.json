@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "290321764691",
+    "firebase_url": "https://flash-chat-c819a.firebaseio.com",
+    "project_id": "flash-chat-c819a",
+    "storage_bucket": "flash-chat-c819a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290321764691:android:973ccbe02ddf2355f5d1a6",
+        "android_client_info": {
+          "package_name": "co.techtalkan.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290321764691-t6kjevatu9tliii9llg0iedjqb9o23kf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGI681ld7BEl27TiX6ykohDfXyaFyEQdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290321764691-t6kjevatu9tliii9llg0iedjqb9o23kf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
